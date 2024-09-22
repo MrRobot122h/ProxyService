@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\IT C#\\Middleware\\ProxyService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\interfaces\\imainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:interfaces\\imainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\services\\reqresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:services\\reqresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\middleware\\checkmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:middleware\\checkmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\models\\reqresdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:models\\reqresdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\interfaces\\ireqresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:interfaces\\ireqresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|d:\\it\\it c#\\middleware\\proxyservice\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEBBC00-6C07-4AD1-ADC2-2AC37A8AE98F}|ProxyService.csproj|solutionrelative:interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 458,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:56:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Services\\MainService.cs",
+              "RelativeDocumentMoniker": "Services\\MainService.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Services\\MainService.cs",
+              "RelativeToolTip": "Services\\MainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:57:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMainService.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Interfaces\\IMainService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMainService.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Interfaces\\IMainService.cs",
+              "RelativeToolTip": "Interfaces\\IMainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:23:38.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Services\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DataBaseService.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Services\\DataBaseService.cs",
+              "RelativeToolTip": "Services\\DataBaseService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:03:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReqresService.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Services\\ReqresService.cs",
+              "RelativeDocumentMoniker": "Services\\ReqresService.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Services\\ReqresService.cs",
+              "RelativeToolTip": "Services\\ReqresService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:09:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckMiddleware.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Middleware\\CheckMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\CheckMiddleware.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Middleware\\CheckMiddleware.cs",
+              "RelativeToolTip": "Middleware\\CheckMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIA3wBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:58:39.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqresDataResponse.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Models\\ReqresDataResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ReqresDataResponse.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Models\\ReqresDataResponse.cs",
+              "RelativeToolTip": "Models\\ReqresDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:58:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataBaseService.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Interfaces\\IDataBaseService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDataBaseService.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Interfaces\\IDataBaseService.cs",
+              "RelativeToolTip": "Interfaces\\IDataBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:07:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReqresService.cs",
+              "DocumentMoniker": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Interfaces\\IReqresService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReqresService.cs",
+              "ToolTip": "D:\\IT\\IT C#\\Middleware\\ProxyService\\Interfaces\\IReqresService.cs",
+              "RelativeToolTip": "Interfaces\\IReqresService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:09:25.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+2024-09-21 18:03:22.539 +03:00 [INF] fnhdfnj
+2024-09-21 18:50:22.229 +03:00 [INF] Middleware invoked. Request Path: /api/Authentication/from%20reqres.in
+2024-09-21 18:51:31.598 +03:00 [INF] Middleware invoked. Request Path: /api/Authentication/from%20reqres.in
+2024-09-21 18:58:46.729 +03:00 [INF] invoked. Request Path: {Path}
+2024-09-21 20:40:34.354 +03:00 [INF] invoked. Request Path: {Path}
